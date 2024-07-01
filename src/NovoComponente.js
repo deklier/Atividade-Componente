@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Componente() {
+function NovoComponente() {
   return (
     <div>
       <h2>Segundo Componente do Hello World!</h2>
@@ -16,4 +16,4 @@ function Componente() {
   );
 }
 
-export default Componente;
+export default NovoComponente;
